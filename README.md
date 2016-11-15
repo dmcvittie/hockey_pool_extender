@@ -1,6 +1,7 @@
 # hockey_pool_extender
 
 Local Setup:
+
 1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) from the Chrome store
 2. Click on the Tampermonkey icon in the Chrome apps tray and select "Add new script"
 3. Delete the pre-poulated content in the code editor
